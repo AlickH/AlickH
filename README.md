@@ -1,1 +1,1 @@
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=AlickH)](https://alickh.github.io/)
+[![我的 GitHub 数据](https://stats.663407.xyz/api?username=AlickH)](https://alickh.github.io/)
